@@ -1,0 +1,21 @@
+body {
+	background-color: #1A1F24;
+}
+
+.heading {
+	display: flex;
+	height: 150px;
+	align-items: center;
+	justify-content: center;
+	background-color: #1A1F24;
+	color: white;
+}
+
+.convic {
+	display: flex;
+	height: 500px;
+	align-items: center;
+	justify-content: center;
+	background-image: url(assets/startback.jpg);
+	background-size: cover;
+}
